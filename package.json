@@ -1,0 +1,11 @@
+{
+  "name": "@paul-fletes/acs-3310-js-string-library",
+  "version": "1.0.1",
+  "description": "First javascript library assignment, part of ACS-3310-JS-Libraries course at Dominican University of California",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
