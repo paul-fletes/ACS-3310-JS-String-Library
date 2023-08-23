@@ -1,14 +1,14 @@
 // Importing the helper functions
-import allCaps from './allCaps';
-import camelCase from './camelCase';
-import capitalize from './capitalize';
-import capitalizeWords from './capitalizeWords';
-import isEmpty from './isEmpty';
-import kebabCase from './kebobCase';
-import makeHashTag from './makeHashTag';
-import removeExtraSpaces from './removeExtraSpaces';
-import shift from './shift';
-import snakeCase from './snakeCase';
+const allCaps = require('./allCaps');
+const camelCase = require('./camelCase');
+const capitalize = require('./capitalize');
+const capitalizeWords = require('./capitalizeWords');
+const isEmpty = require('./isEmpty');
+const kebabCase = require('./kebobCase');
+const makeHashTag = require('./makeHashTag');
+const removeExtraSpaces = require('./removeExtraSpaces');
+const shift = require('./shift');
+const snakeCase = require('./snakeCase');
 
 // Now you can use these functions in your index.js
 const inputString = 'some input string';
