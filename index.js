@@ -24,3 +24,16 @@ makeHashTag(inputString);
 removeExtraSpaces(inputString);
 shift(inputString);
 snakeCase(inputString);
+
+module.exports = {
+  allCaps,
+  camelCase,
+  capitalize,
+  capitalizeWords,
+  isEmpty,
+  kebobCase,
+  makeHashTag,
+  removeExtraSpaces,
+  shift,
+  snakeCase,
+};
