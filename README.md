@@ -1,4 +1,6 @@
 # ACS-3310-JS-STRING-LIBRARY
+![npm (scoped)](https://img.shields.io/npm/v/%40paul-fletes/acs-3310-js-string-library)
+![npm bundle size](https://img.shields.io/bundlephobia/min/%40paul-fletes%2Facs-3310-js-string-library)
 
 A collection of helper functions for string manipulation in JavaScript. Assignment for Applied Computer Science 3310-Javascript Libraries Fall 2023.
 
