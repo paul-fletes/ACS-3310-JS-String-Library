@@ -7,7 +7,7 @@ A collection of helper functions for string manipulation in JavaScript. Assignme
 You can install this library via npm:
 
 ```bash
-npm install acs-3310-js-string-library
+npm install @paul-fletes/acs-3310-js-string-library
 ```
 
 ## Usage 
